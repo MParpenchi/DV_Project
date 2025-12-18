@@ -33,7 +33,8 @@ Using HS6 enables a detailed view of export composition across thousands of prod
 - `data/processed/` : Cleaned datasets and computed metrics (csv)
 - `src/` : Python scripts for the pipeline
 - `figures/` : Exported charts (png)
-- `report/` : Final PDF and presentation outputs
+- `report/` : Final PDF and presentation outputs`
+- `author/`: Maryamsadat Parpenchi
 
 ## How to Run
 ### 1) Install dependencies
